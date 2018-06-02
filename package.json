@@ -9,17 +9,17 @@
   },
   "dependencies": {
     "hubot": "^2.19.0",
+    "hubot-alias": "^0.1.11",
     "hubot-diagnostics": "^0.0.2",
-    "hubot-flowdock": "^0.7.7",
-    "hubot-google-images": "^0.2.7",
+    "hubot-factoid": "^0.0.1",
     "hubot-google-translate": "^0.2.1",
     "hubot-help": "^0.2.2",
+    "hubot-jenkins-userauth": "https://github.com/joestewart/hubot-jenkins-userauth.git",
     "hubot-maps": "^0.0.3",
-    "hubot-pugme": "^0.1.1",
     "hubot-redis-brain": "^0.0.4",
     "hubot-rules": "^0.1.2",
-    "hubot-shipit": "^0.2.1",
-    "hubot-slack": "^4.4.0"
+    "hubot-slack": "^4.4.0",
+    "hubot-uptime-robot": "https://github.com/joestewart/hubot-uptime-robot.git"
   },
   "engines": {
     "node": ">=8"
