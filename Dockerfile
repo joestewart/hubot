@@ -2,7 +2,7 @@ FROM node:8-alpine
 
 ENV NODE_ENV=production
 
-RUN mkdir -p /code
+RUN mkdir -p /code && apk add --no-cache bash git
 
 WORKDIR /code
 
