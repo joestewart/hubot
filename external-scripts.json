@@ -1,8 +1,6 @@
 [
   "hubot-alias",
-  "hubot-factoid",
   "hubot-help",
-  "hubot-redis-brain",
-  "hubot-rules",
-  "hubot-uptime-robot"
+  "hubot-jenkins-userauth",
+  "hubot-redis-brain"
 ]
