@@ -27,7 +27,7 @@ services:
     volumes:
       - ./scripts:/code/scripts
     ports:
-      - 8091:8080
+      - 8092:8080
     stdin_open: true
     networks:
       overlay:
